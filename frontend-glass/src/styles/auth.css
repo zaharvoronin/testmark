@@ -1,0 +1,3 @@
+/* additional auth styles (kept separate) */
+.auth-card { transition: transform .12s ease; }
+.auth-card:hover { transform: translateY(-4px); }
